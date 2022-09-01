@@ -1,3 +1,11 @@
+body {
+    box-sizing: border-box;
+    height: 100vh;
+    background-color: #1d2d3b;
+    overflow: hidden;
+    overflow-y: auto;
+}
+
 header {
     background-color: #2d3a46;
     height: 100px;
@@ -27,6 +35,10 @@ header {
     color: #b0a69f;
 }
 
-main {
-    background-color: #1d2d3b;
+.main {
+    padding-bottom: 50px;
+}
+
+.grey {
+    color: rgb(119, 118, 118);
 }
