@@ -1,0 +1,32 @@
+header {
+    background-color: #2d3a46;
+    height: 100px;
+}
+  
+.image img {
+    width: 15%;
+}
+
+.disc {
+    background-color: #2d3a46;
+}
+
+.album {
+    width: 90%;
+}
+
+.title {
+    color: white;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.info {
+    font-size: 12px;
+    color: #b0a69f;
+}
+
+main {
+    background-color: #1d2d3b;
+}
